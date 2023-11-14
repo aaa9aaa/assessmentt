@@ -26,14 +26,14 @@ assessmentButton.onclick = function() {
 //placeholder うすいすけ文字
 
 const answers = [
-    '##userName##のいいところは、声です。##userName##の声',
-    '##userName##のいいところは、体幹の良さです。##userName##の',
-    '##userName##のいいところは、うんちがもりもり出るところです。##userName##の',
-    '##userName##のいいところは、歌がうまいことです。##userName##の',
-    '##userName##のいいところは、気配りができるところです。##userName##の',
-    '##userName##のいいところは、あいさつができるです。##userName##の',
-    '##userName##のいいところは、頭がいいところです。##userName##の',
-    '##userName##のいいところは、触り心地のいい肌です。##userName##の',
+    '##userName##のいいところは、声です。##userName##の声は皆を魅了します',
+    '##userName##のいいところは、体幹の良さです。##userName##は長い間片足立ちができます',
+    '##userName##のいいところは、毎日早起きできるところです。##userName##が遅刻することはありません',
+    '##userName##のいいところは、歌がうまいことです。##userName##の歌は皆を魅了します',
+    '##userName##のいいところは、気配りができるところです。##userName##の気配りは人々を助けます',
+    '##userName##のいいところは、あいさつができるです。##userName##の元気な挨拶は気持ちいい',
+    '##userName##のいいところは、頭がいいところです。##userName##の知恵に助けられる人はたくさんいる',
+    '##userName##のいいところは、触り心地のいい肌です。##userName##のもちもち肌は憧れです',
     '##userName##のいいところは、甘え上手なところです。##userName##の',
     '##userName##のいいところは、おしゃれなところです。##userName##の',
     '##userName##のいいところは、気前がいいところです。##userName##の',
@@ -41,7 +41,8 @@ const answers = [
     '##userName##のいいところは、おもしろいところです。##userName##の',
     '##userName##のいいところは、絵がうまいことです。##userName##の',
     '##userName##のいいところは、想像力の豊かさです。##userName##の',
-    '##userName##のいいところは、です。##userName##の',
+    '##userName##のいいところは、勉強ができるところです。##userName##の',
+    '##userName##のいいところは、優しいところです。##userName##の'
 
 ]
 
